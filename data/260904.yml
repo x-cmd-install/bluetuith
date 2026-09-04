@@ -7,7 +7,7 @@ about:
   head: 026fe26
   archived: false
   latestVersion: v0.2.7
-  collectedAt: 2026-09-04T19:54:10Z
+  collectedAt: 2026-09-04T20:46:07Z
 timeline:
   created: 2022-07-08
   lastCommit: 2026-07-01
@@ -80,5 +80,28 @@ total:
   openIssue: 12
   commit: 156
 ---
+path: /home/runner/.x-repo/github.com/darkhz/bluetuith
+collectedAt: 2026-09-04T20:46:09Z
+loc:
+  Go:
+    code: 5772
+    comments: 379
+    blanks: 1423
+    files: 35
+  Toml:
+    code: 46
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 25
+    blanks: 14
+    files: 1
+total:
+  code: 5818
+  comments: 404
+  blanks: 1439
+  files: 37
 ---
 
