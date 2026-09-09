@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4580922,
       "digest": "sha256:45c001c0320306178c3fc17d0927b34c48886c4235b032ad9ca73f4b358c7237",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-07-01T05:46:06Z",
       "updated_at": "2026-07-01T05:46:07Z",
       "browser_download_url": "https://github.com/bluetuith-org/bluetuith/releases/download/v0.2.7/bluetuith_0.2.7_Darwin_arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4896347,
       "digest": "sha256:4278b185601b96a52d8d8c6dd5b2806dabb3c02e16463ed078c9eb520b75a95c",
-      "download_count": 91,
+      "download_count": 92,
       "created_at": "2026-07-01T05:46:04Z",
       "updated_at": "2026-07-01T05:46:05Z",
       "browser_download_url": "https://github.com/bluetuith-org/bluetuith/releases/download/v0.2.7/bluetuith_0.2.7_Darwin_x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6487958,
       "digest": "sha256:81ec8bdbdf18ddabff0ce5fb11f478dfa8dccbd9efc8e14583d4cbb8ef0f8d84",
-      "download_count": 101,
+      "download_count": 102,
       "created_at": "2026-07-01T05:46:06Z",
       "updated_at": "2026-07-01T05:46:07Z",
       "browser_download_url": "https://github.com/bluetuith-org/bluetuith/releases/download/v0.2.7/bluetuith_0.2.7_Linux_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 7183702,
       "digest": "sha256:145888f0e3959d29832c7395403c2327e0f03b9591e4cdd3f712741cf0f934e9",
-      "download_count": 1802,
+      "download_count": 1809,
       "created_at": "2026-07-01T05:46:05Z",
       "updated_at": "2026-07-01T05:46:06Z",
       "browser_download_url": "https://github.com/bluetuith-org/bluetuith/releases/download/v0.2.7/bluetuith_0.2.7_Linux_x86_64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1018,
       "digest": "sha256:376489140d6990cf9bb05d05b606f0682b073c8a343483f63190c84ff5119d35",
-      "download_count": 41,
+      "download_count": 43,
       "created_at": "2026-07-01T05:46:06Z",
       "updated_at": "2026-07-01T05:46:07Z",
       "browser_download_url": "https://github.com/bluetuith-org/bluetuith/releases/download/v0.2.7/checksums.txt"
