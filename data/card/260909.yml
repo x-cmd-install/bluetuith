@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.7"
   latestRelease: "v0.2.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:37:59Z
+  collectedAt: 2026-09-09T19:58:28Z
 timeline:
   created: 2022-07-08
   lastCommit: 2026-07-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-01
   lastPrerelease: 
 popularity:
-  star: 1401
+  star: 1405
   watcher: 10
   fork: 34
   release: 27
@@ -83,7 +83,7 @@ total:
   commit: 156
 ---
 path: /home/runner/.x-repo/github.com/darkhz/bluetuith
-collectedAt: 2026-09-09T05:38:00Z
+collectedAt: 2026-09-09T19:58:30Z
 loc:
   Go:
     code: 5772
